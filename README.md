@@ -1,0 +1,2 @@
+# Plan-de-mantenimiento
+Plan de mantenimiento utilizando las instrucciones de control (if, switch,for, while,do-while). Este programa deberá tener un menú especificando las fallas más comunes que encontramos en una máquina. Cuando se seleccione una de las opciones, el programa indicara como solucionar el problema. El programa también deberá contar con la opción de volver al menú una vez que se seleccione el error.
